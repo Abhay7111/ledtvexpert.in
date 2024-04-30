@@ -8,7 +8,7 @@ function Footer() {
         <h1 className='text-xl font-medium mb-6 text-zinc-100'>Contact Us</h1>
         <p className='font-light'>148, Kasba Peth, Opp. Peshwa Ganpati,Lal Mahal Chowk,Pune-411011</p>
         <p className='flex gap-3 font-light flex-wrap'><span><a href="tel:+918421119417"><i class="ri-phone-line text-red-500"> </i>+91-8421119417</a></span><span><a href="mailto:vishwaxupte@gmail.com"><i class="ri-mail-line text-red-500"> </i>vishwaxupte@gmail.com</a></span>
-        <span><a href="https://expertsalution.com"><i class="ri-global-line text-red-500"> </i>expertsalution.com</a></span></p>
+        <span><a href="https://ledtvexpert.in"><i class="ri-global-line text-red-500"> </i>ledtvexpert.in</a></span></p>
       </div>
       <div className='flex px-5 sm:w-1/3 flex-col w-full'>
         <h1 className='text-xl font-medium mt-10 sm:mt-0 text-zinc-100'>Useful Links</h1>

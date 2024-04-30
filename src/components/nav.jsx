@@ -3,7 +3,7 @@ import React, { useEffect } from 'react'
 function Nav() {
      useEffect(()=>{
           document.querySelector('#menubtn').addEventListener('click', ()=>{
-               document.querySelector('#link').style.height = '25vh';
+               document.querySelector('#link').style.height = '250px';
                document.querySelector('#menubtn').style.display = 'none';
                document.querySelector('#closemenu').style.display = 'block';document.getElementById("link").style.transition = "all 1s";
           })
@@ -19,7 +19,7 @@ function Nav() {
     <div className=' w-full min-h-40 pt-6 bg_nav flex flex-col items-center justify-center text-zinc-800'>
      <span className='flex flex-col w-full items-center sm:px-10 sm:flex sm:flex-row sm:justify-between'>
      <span>
-     <h1 className='text-3xl font-semibold uppercase'>expertsalution</h1>
+     <h1 className='text-3xl font-semibold uppercase'>led-tv-expert</h1>
      <h2 className='font-medium text-xl mb-5'>LED REPAIRING EXPERT</h2>
      </span>
      <span>

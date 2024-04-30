@@ -34,7 +34,7 @@ function Home() {
     {
       image:customsunil2,
       title:'PLASMA LED SERVICE',
-      des:'Plasma LED Services We are one of the renowned expertsalution of Plasma LED Services.',
+      des:'Plasma LED Services We are one of the renowned ledtvexpert of Plasma LED Services.',
       number:'tel:8421119417',
     },
     {
@@ -53,7 +53,7 @@ function Home() {
   const comment = [
     {
       name:'Abhay',
-      comment:'I have Six-year-old  LED TV. The other service center also refused to repair. Thankfully I called this repair expertsalution and they were able to resolve the issue.',
+      comment:'I have Six-year-old  LED TV. The other service center also refused to repair. Thankfully I called this repair ledtvexpert and they were able to resolve the issue.',
       type:'Customer',
       rate:'4.5',
       icon:{
@@ -81,7 +81,7 @@ function Home() {
     },
     {
       name:'Komal',
-      comment:'I have Three year old  LED TV. The other service center also refused to repair. Thankfully I called this repair expertsalution and they were able to resolve the issue.',
+      comment:'I have Three year old  LED TV. The other service center also refused to repair. Thankfully I called this repair ledtvexpert and they were able to resolve the issue.',
       type:'Customer',
       rate:'4.5',
       icon:{

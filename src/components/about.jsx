@@ -5,7 +5,7 @@ function About() {
     <div id='aboutus' className='px-5 py-10 flex flex-col sm:flex sm:flex-row sm:items-center'>
       <div className='sm:w-1/2'>
       <h1 className='text-4xl font-semibold mb-10 '># About <span className='text-red-500'>Us</span></h1>
-     <h1 className='text-2xl font-semibold uppercase'>WELCOME TO expertsalution</h1>
+     <h1 className='text-2xl font-semibold uppercase'>WELCOME TO ledtvexpert</h1>
      <p className='flex flex-col gap-5 text-zinc-600 mt-3 font-normal'>
           <span className='text-lg font-light'>Are you trying to find a professional who can fix your LED TV the best way possible? If so, you've found the proper site.</span>
           <span>Our goal is to offer you the most dependable, long-lasting repair service possible at a reasonable cost. Our devoted and knowledgeable specialists are skilled at handling any issue with comfort and simplicity.</span>

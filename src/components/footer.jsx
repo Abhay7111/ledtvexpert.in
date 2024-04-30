@@ -34,7 +34,7 @@ function Footer() {
       </div>
       </span>
       <div className='w-full min-h-20 bg-zinc-900 p-3'>
-        <p className='text-xs'>Copyright © 2023 | All Rights Reserved</p>
+        <p className='text-xs'>Copyright © 2024 | All Rights Reserved</p>
         <p className='text-xs mt-2 w-full text-center'><span><a href="#">Terms & Conditions</a></span> | <span><a href="#"> Privacy Policy </a></span> | <span><a href="#"> Disclaimer</a></span></p>
       </div>
     </div>

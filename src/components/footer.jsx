@@ -6,7 +6,7 @@ function Footer() {
       <span className='sm:flex'>
       <div className=' px-5 flex sm:w-1/3 flex-col'>
         <h1 className='text-xl font-medium mb-6 text-zinc-100'>Contact Us</h1>
-        <p className='font-light'>148, Kasba Peth, Opp. Peshwa Ganpati,Lal Mahal Chowk,Pune-411011</p>
+        <p className='font-light'>Bhudhwar Peth Pune - 411002</p>
         <p className='flex gap-3 font-light flex-wrap'><span><a href="tel:+918421119417"><i class="ri-phone-line text-red-500"> </i>+91-8421119417</a></span><span><a href="mailto:vishwaxupte@gmail.com"><i class="ri-mail-line text-red-500"> </i>vishwaxupte@gmail.com</a></span>
         <span><a href="https://ledtvexpert.in"><i class="ri-global-line text-red-500"> </i>ledtvexpert.in</a></span></p>
       </div>

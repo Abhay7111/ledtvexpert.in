@@ -32,7 +32,7 @@ function Contact() {
           <ul className='mt-6'>
                <a href="tel:+918421119417"><li className='w-fit pl-2 pr-5 border-b border-dashed border-zinc-800 py-3 text-zinc-500'><i class="ri-phone-line text-red-500"> </i><span className='font-medium text-zinc-600'>Call Us :</span> +91-8421119417</li></a>
                <a href="mailto:vishwaxupte@gmail.com"><li className='w-fit pl-2 pr-5 border-b border-dashed border-zinc-800 py-3 text-zinc-500'><i class="ri-mail-line text-red-500"> </i><span className='font-medium text-zinc-600'>Email Us :</span> vishwaxupte@gmail.com</li></a>
-               <a href="148, Kasba Peth, Opp. Peshwa Ganpati,Lal Mahal Chowk,Pune-411011"><li className='w-fit pl-2 pr-5 border-b border-dashed border-zinc-800 py-3 text-zinc-500'><i class="ri-map-2-line text-red-500"> </i><span className='font-medium text-zinc-600'>148, Kasba Peth, Opp. Peshwa Ganpati,Lal Mahal Chowk,Pune-411011</span></li></a>
+               <a href="148, Kasba Peth, Opp. Peshwa Ganpati,Lal Mahal Chowk,Pune-411011"><li className='w-fit pl-2 pr-5 border-b border-dashed border-zinc-800 py-3 text-zinc-500'><i class="ri-map-2-line text-red-500"> </i><span className='font-medium text-zinc-600'>Bhudhwar Peth Pune - 411002</span></li></a>
           </ul>
      </div>
      <div className='sm:flex sm:flex-col sm:w-1/2'>

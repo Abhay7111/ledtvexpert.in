@@ -101,12 +101,7 @@ nav{
   border-radius: 50%;
   transition: all ease 0.2s;
 }
-.icon:hover::before{
-  content: "";
-  width: 130%;
-  height: 130%;
-  border: 3px solid #2E375F;
-}
+
 
 .displayx{
   width: 100%;
@@ -193,4 +188,40 @@ nav{
 
 .swiper-slide:nth-child(10n) {
   background-color: #dadada;
+}
+
+#whcard:hover .icon::before{
+  content: "";
+  width: 130%;
+  height: 130%;
+  border: 3px solid #2E375F;
+}
+
+#whcard{
+  position: relative;
+}
+
+#whcard::before{
+  content: '';
+  width: 0px;
+  height: 0px;
+  background-color: #AF8260;
+  position: absolute;
+  top: -100%;
+  left: -100%;
+  -webkit-filter: blur(60px);
+  border-radius: 50%;
+  transition: all ease 1s;
+}
+#whcard:hover:before{
+  content: '';
+  width: 200%;
+  height: 200%;
+  background-color: #c4a681;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  -webkit-filter: blur(10px);
 }

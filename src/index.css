@@ -192,13 +192,20 @@ nav{
 
 #whcard:hover .icon::before{
   content: "";
-  width: 130%;
-  height: 130%;
+  width: 170%;
+  height: 170%;
   border: 3px solid #2E375F;
+  scale: 0.8;
 }
 
 #whcard{
   position: relative;
+  transform: rotate(10deg);
+  transition: all ease 0.5s;
+}
+#whcard:hover{
+  position: relative;
+  transform: rotate(0deg);
 }
 
 #whcard::before{

@@ -36,7 +36,7 @@ const carddt = [
 
 function Whyus() {
   return (
-    <div id="whyus" className=" whyus w-full min-h-10 bg-white mt-10 px-5">
+    <div id="whyus" className=" whyus w-full min-h-10 bg-white mt-10 px-5 max-w-[1370px]">
     <div className="w-full h-auto bg-white py-20 flex flex-col gap-10 items-center text-zinc-100 sm:flex sm:flex-row sm:flex-wrap sm:items-center sm:justify-center">
   <h1 className="text-3xl font-semibold w-full py-4 px-3 bg-white text-zinc-800">Why <span className="text-red-600">Choose <a href="https://ledtvexpert.in">ledtvexpert.in</a></span></h1>
   

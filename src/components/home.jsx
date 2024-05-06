@@ -103,7 +103,9 @@ function Home() {
       <Top/>
      </div>
      <About/>
+     <div className=' w-full flex items-center justify-center'>
      <Whyus/>
+     </div>
      <div  id='services' className='py-5 '>
      <h1 className='text-2xl w-full mt-8 text-center font-semibold'>Our <span className='text-red-500'>Services</span></h1>
      <span className='sm:flex sm:flex-row sm:gap-7 sm:flex-wrap sm:items-center sm:justify-center'>

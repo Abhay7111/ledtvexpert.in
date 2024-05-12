@@ -188,7 +188,7 @@ nav{
 
 #whcard{
   position: relative;
-  transform: rotate(10deg);
+  transform: rotate(3deg);
   transition: all ease 0.5s;
 }
 #whcard:hover{

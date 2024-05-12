@@ -9,8 +9,8 @@ function About() {
      <h1 className='text-2xl font-semibold uppercase'>WELCOME TO ledtvexpert</h1>
      <p className='flex flex-col gap-5 text-zinc-600 mt-3 font-normal'>
           <span className='text-lg font-light'>Are you trying to find a professional who can fix your LED TV the best way possible? Then call us!</span>
-          <span> Our goal is to offer you the most dependable, long-lasting repair service possible at a reasonable cost. Our devoted and knowledgeable specialists are skilled at handling any issue with comfort and simplicity.</span>
-          <span>Our service centre is known for its cutting-edge technology and top-notch customer care. With more than ten years of expertise in the TV repair industry, our engineers are highly skilled and able to fix your televisions effectively and affordably. Our experts also receive the greatest level of training, allowing us to provide you with a repair service of the highest calibre. from the moment you call until now</span>
+          <span>LED TV Repairing Service Provide in pune</span>
+          <span>All Types LED,LCD TV SMART TV Repair by expert engineers</span>
      </p>
       </div>
           <div className='my-7 sm:w-1/3 sm:mr-10'>

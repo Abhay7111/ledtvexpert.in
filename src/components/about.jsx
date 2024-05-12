@@ -1,4 +1,5 @@
 import React from 'react'
+import aboutimg from '/5.png'
 
 function About() {
   return (
@@ -13,7 +14,7 @@ function About() {
      </p>
       </div>
           <div className='mt-7 sm:w-1/2'>
-          <img className='sm:w-full' src="https://goldmineledservices.com/images/about/5.png" />
+          <img className='sm:w-full' src={aboutimg} />
           </div>
     </div>
   )

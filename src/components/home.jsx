@@ -10,6 +10,7 @@ import serv5 from '/s6.png'
 import customsunil from '/customsunil.jpg'
 import customsunil2 from '/customsunil2.jpg'
 import customsunil3 from '/customsunil3.jpg'
+import s5 from '/s5.png'
 import comentimg from '/1.png'
 import Comments from './comments'
 import Socialnumbers from './socialnumbers'
@@ -20,7 +21,7 @@ import Top from './top'
 function Home() {
   const services = [
     {
-      image:"https://cdn.pixabay.com/photo/2021/03/22/15/22/construction-workers-6114988_1280.jpg",
+      image:s5,
       title:'LED SERVICE',
       des:'With enriched market experience, we have been able to offer a wide spectrum of LED Service.',
       number:'tel:8421119417',

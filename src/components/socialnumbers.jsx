@@ -31,21 +31,21 @@ function Socialnumbers() {
      <div className=' items-center  flex flex-col'>
          <div className='w-fit flex flex-col items-center justify-center'>
            <img src={User} className='h-20'/>
-          <p className='text-4xl mt-5'><Number n={2247} /></p>
+          <p className='text-4xl mt-5'><Number n={2120} /></p>
           <h1 className='text-xl font-medium'  >HAPPY CLIENTS</h1>
          </div>
      </div>
      <div className=' items-center  flex flex-col'>
          <div className='w-fit flex flex-col items-center justify-center'>
            <img src={Like} className='h-20'/>
-          <p className='text-4xl mt-5'><Number n={2339} /></p>
+          <p className='text-4xl mt-5'><Number n={2125} /></p>
           <h1 className='text-xl font-medium'  >PEOPLE LIKES</h1>
          </div>
      </div>
      <div className=' items-center flex flex-col'>
          <div className='w-fit flex flex-col items-center justify-center'>
            <img src={Phone} className='h-20'/>
-          <p className='text-4xl mt-5'><Number n={2134} /></p>
+          <p className='text-4xl mt-5'><Number n={2139} /></p>
           <h1 className='text-xl font-medium'  >TV SERVICED</h1>
          </div>
      </div>

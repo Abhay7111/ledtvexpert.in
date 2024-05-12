@@ -1,5 +1,5 @@
 import React from 'react'
-import aboutimg from '/5.png'
+import aboutimg from '/illustration_01.png'
 
 function About() {
   return (
@@ -13,7 +13,7 @@ function About() {
           <span>Our service centre is known for its cutting-edge technology and top-notch customer care. With more than ten years of expertise in the TV repair industry, our engineers are highly skilled and able to fix your televisions effectively and affordably. Our experts also receive the greatest level of training, allowing us to provide you with a repair service of the highest calibre. from the moment you call until now</span>
      </p>
       </div>
-          <div className='mt-7 sm:w-1/2'>
+          <div className='my-7 sm:w-1/3 sm:mr-10'>
           <img className='sm:w-full' src={aboutimg} />
           </div>
     </div>

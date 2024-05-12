@@ -1,8 +1,11 @@
 import React from 'react'
+import illustration_02 from '/illustration_02.png'
+import illustration_03 from '/illustration_03.png'
 
 function Cards({carddt}) {
   return (
     <div id='whcard' className=' bg-[#E4C59E] py-10 overflow-hidden rounded-xl cursor-pointer'>
+      <img className='absolute size-20 top-5 right-4 opacity-60' src={illustration_02} />
      <div className="w-80 h-72 flex px-5 flex-col items-center relative">
        <div id='icon' className="icon size-12 border-zinc-400 rounded-full cursor-pointer transition-all flex items-center justify-center bg-[#2E375F]">
          <i>{carddt.icon}</i>

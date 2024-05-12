@@ -14,7 +14,7 @@ function Top() {
         spaceBetween={30}
         centeredSlides={true}
         autoplay={{
-          delay: 3000,
+          delay: 3500,
           disableOnInteraction: false,
         }}
         pagination={{
@@ -26,7 +26,7 @@ function Top() {
       >
         <SwiperSlide>
           <div className='w-full h-full'><img className='w-full h-full object-cover object-center' src={bg2} />
-          <div className='absolute bg-zinc-900/20 top-0 left-0 w-full h-full flex flex-col items-start px-3 justify-center'>
+          <div className='absolute bg-zinc-900/30 top-0 left-0 w-full h-full flex flex-col items-start sm:items-center px-3 justify-center'>
           <h1 className='text-5xl uppercase font-medium'>Repair service</h1>
           <p className='px-10 py-2 bg-[#2E375F]/90 mt-3 rounded relative text-base font-light before:absolute before:w-2 before:h-full before:bg-red-600 before:left-0 before:top-0 uppercase'>the best LED/LCD repair Services</p>
           <p className='text-sm font-light leading-5 mt-2 text-start'>We provided our best services for our clients and try to achieve our clint's trust and satisfaction.</p>
@@ -46,7 +46,7 @@ function Top() {
         </SwiperSlide>
         <SwiperSlide>
           <div className='w-full h-full relative'><img className='w-full h-full object-cover object-center' src={bg3} />
-          <div className='absolute bg-zinc-800/10 top-0 left-0 w-full h-full px-3 flex flex-col items-end justify-center'>
+          <div className='absolute bg-zinc-800/30 top-0 left-0 w-full h-full px-3 flex flex-col items-end sm:items-center justify-center'>
           <h1 className='px-14 py-2 rounded bg-[#2E375F]/90 text-3xl relative uppercase before:absolute before:w-2 before:h-full before:bg-red-600 before:right-0 before:top-0'>TV repair service</h1>
           <p className=' py-2 rounded-full text-xl font-medium uppercase'>Best services</p>
           <p className='text-sm font-light leading-5 text-end pl-14 w-96 pr-2'>We provided our best services for our clients and try to achieve our clint's trust and satisfaction.</p>

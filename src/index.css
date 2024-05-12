@@ -15,7 +15,7 @@ html{
 }
 
 .bg_nav{
-  background: linear-gradient(to left , #53a3c8, #9fc0fc, #3d9bc7,#9fc0fc, #53a3c8);
+  /* background: linear-gradient(to left , #53a3c8, #9fc0fc, #3d9bc7,#9fc0fc, #53a3c8); */
 }
 #anih_0{
   width: 100%;
@@ -41,16 +41,6 @@ nav{
 }
 .navdiv{
   width: 100vw;
-  background-color: #2E375F;
-  display: flex;
-  flex-direction: column;
-  align-items: end;
-  justify-content: start;
-  padding: 6px 20px;
-  margin-top: 10px;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0px;
 }
 .menubtn{
   font-size: 3vh;
@@ -59,9 +49,7 @@ nav{
 }
 .link{
   background-color: #dadada;
-  height: 0vh;
   width: 100%;
-  overflow: hidden;
 }
 .link ul li{
   padding-left: 3px;

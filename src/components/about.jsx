@@ -2,7 +2,7 @@ import React from 'react'
 
 function About() {
   return (
-    <div id='aboutus' className='px-5 py-10 flex flex-col sm:flex sm:flex-row sm:items-center'>
+    <div id='aboutus' className='px-5 py-10 flex flex-col-reverse sm:flex sm:flex-row-reverse sm:items-center'>
       <div className='sm:w-1/2'>
       <h1 className='text-4xl font-semibold mb-10 '> About <span className='text-red-500 font-normal text-3xl'>Us</span></h1>
      <h1 className='text-2xl font-semibold uppercase'>WELCOME TO ledtvexpert</h1>

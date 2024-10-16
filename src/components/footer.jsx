@@ -7,7 +7,7 @@ function Footer() {
       <div className=' px-5 flex sm:w-1/3 flex-col'>
         <h1 className='text-xl font-medium mb-6 text-zinc-100'>Contact Us</h1>
         <p className='font-light mb-3'>Bhudhwar Peth Pune - 411002</p>
-        <p className='flex gap-3 font-light flex-wrap'><span><a href="tel:+918421119417"><i class="ri-phone-line text-red-500"> </i>+91-8421119417</a></span><span><a href="mailto:vishwaxupte@gmail.com"><i class="ri-mail-line text-red-500"> </i>vishwaxupte@gmail.com</a></span>
+        <p className='flex gap-3 font-light flex-wrap'><span><a href="tel:+917835037904"><i class="ri-phone-line text-red-500"> </i>+91-7835037904</a></span><span><a href="mailto:vishwaxupte@gmail.com"><i class="ri-mail-line text-red-500"> </i>vishwaxupte@gmail.com</a></span>
         <span><a href="https://ledtvexpert.in"><i class="ri-global-line text-red-500"> </i>ledtvexpert.in</a></span></p>
       </div>
       <div className='flex px-5 sm:w-1/3 flex-col w-full'>
@@ -29,7 +29,7 @@ function Footer() {
           <a href="#"><li className='py-2 hover:bg-zinc-900 px-2 border-b border-zinc-600 border-dashed'>TV SERVICE</li></a>
           <a href="#"><li className='py-2 hover:bg-zinc-900 px-2 border-b border-zinc-600 border-dashed'>CURVED TV SERVICE</li></a>
 
-          <a href="tel:+918421119417"><li className='py-2 mt-8 px-2 border-zinc-600 hover:bg-green-400 hover:text-zinc-800'>Call Us on +91-8421119417</li></a>
+          <a href="tel:+917835037904"><li className='py-2 mt-8 px-2 border-zinc-600 hover:bg-green-400 hover:text-zinc-800'>Call Us on +91-7835037904</li></a>
         </ul>
       </div>
       </span>

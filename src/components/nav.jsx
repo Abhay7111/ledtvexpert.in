@@ -27,7 +27,7 @@ function Nav() {
      <h2 className='font-medium text-xl mb-5 sm:text-sm sm:font-normal'>LED REPAIRING EXPERT</h2>
      </span>
      <span>
-     <a href="tel:+918421119417" className='flex flex-col'> <span className='flex items-center'><span className="material-symbols-outlined ">call</span><span className='sm:text-sm'>+91-8421119417</span></span> <span className=''>Call us for more details</span></a>
+     <a href="tel:+917835037904" className='flex flex-col'> <span className='flex items-center'><span className="material-symbols-outlined ">call</span><span className='sm:text-sm'>+91-7835037904</span></span> <span className=''>Call us for more details</span></a>
      </span>
      </span>
      <div className="navdiv relative mt-0 py-[6px] px-[20px] justify-end items-center flex sm:h-[60px] sm:justify-center sm:items-start sm:w-full bg-[#2E375F] sm:bg-transparent">

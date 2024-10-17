@@ -24,31 +24,31 @@ function Home() {
       image:s5,
       title:'LED SERVICE',
       des:'With enriched market experience, we have been able to offer a wide spectrum of LED Service.',
-      number:'tel:8421119417',
+      number:'tel:7835037904',
     },
     {
       image:customsunil,
       title:'LED SERVICE',
       des:'We provided repairing services.also we deal in used computer, lcd, led tv services.',
-      number:'tel:8421119417',
+      number:'tel:7835037904',
     },
     {
       image:customsunil2,
       title:'PLASMA LED SERVICE',
       des:'Plasma LED Services We are one of the renowned ledtvexpert of Plasma LED Services.',
-      number:'tel:8421119417',
+      number:'tel:7835037904',
     },
     {
       image:customsunil3,
       title:'TV SERVICE',
       des:'With enriched market experience, we have been able to offer a wide spectrum of LED Service.',
-      number:'tel:8421119417',
+      number:'tel:7835037904',
     },
     {
       image:serv5,
       title:'CURVED TV SERVICE',
       des:'With enriched market experience, we have been able to offer a wide spectrum of LED Service.',
-      number:'tel:8421119417',
+      number:'tel:7835037904',
     },
   ];
   const comment = [
@@ -98,8 +98,8 @@ function Home() {
   return (
     <div>
      <Nav/>
-     <a href="tel:+918421119417" className=' absolute'><div className=' calledshdw fixed size-16 bottom-24 right-5 rounded-full bg-green-600 animate-bounce z-[99] flex items-center justify-center text-zinc-50 text-3xl'><i class="ri-phone-fill"></i></div></a>
-     <a href="https://wa.me/+918421119417?text=I%20have%20problem%20with%20my%20LED%20TV" className=' absolute'><div className=' calledshdw fixed size-16 bottom-5 right-5 rounded-full bg-green-600 animate-bounce z-[99] flex items-center justify-center text-zinc-50 text-3xl'><i class="ri-whatsapp-line"></i></div></a>
+     <a href="tel:+917835037904" className=' absolute'><div className=' calledshdw fixed size-16 bottom-24 right-5 rounded-full bg-green-600 animate-bounce z-[99] flex items-center justify-center text-zinc-50 text-3xl'><i class="ri-phone-fill"></i></div></a>
+     <a href="https://wa.me/+917835037904?text=I%20have%20problem%20with%20my%20LED%20TV" className=' absolute'><div className=' calledshdw fixed size-16 bottom-5 right-5 rounded-full bg-green-600 animate-bounce z-[99] flex items-center justify-center text-zinc-50 text-3xl'><i class="ri-whatsapp-line"></i></div></a>
      <div>
       <Top/>
      </div>
@@ -131,7 +131,7 @@ function Home() {
      <div className='w-full h-60 bg-zinc-800 p-5 mt-20 mb-10 flex flex-col items-center justify-center'>
         <h1 className='text-zinc-100 text-3xl text-center font-semibold'>WOULD YOU LIKE TO <span className='text-red-600'>KNOW MORE?</span></h1>
         <div className='flex items-center justify-center'>
-          <a href="tel:+918421119417" className='uppercase text-xl font-semibold text-zinc-100 bg-red-600 mt-5 px-3 py-1'>Call us</a>
+          <a href="tel:+917835037904" className='uppercase text-xl font-semibold text-zinc-100 bg-red-600 mt-5 px-3 py-1'>Call us</a>
         </div>
      </div>
      <div className='w-full min-h-20 py-10 px-7'>

@@ -20,7 +20,7 @@ function Nav() {
           
      })
   return (
-    <div className=' w-full min-h-36 pt-6 bg_nav flex flex-col items-center justify-center text-zinc-800 sm:z-50 sm:flex-row sm:px-5 sm:gap-10 sm:min-h-20'>
+    <div className=' w-full min-h-32 pt-6 bg_nav flex flex-col items-center justify-center text-zinc-800 sm:z-50 sm:flex-row sm:px-5 sm:gap-10 sm:min-h-20'>
      <span className='flex flex-col w-full items-center sm:px-10 sm:flex sm:flex-row sm:justify-start sm:gap-10'>
      <span className=''>
      <h1 className='text-3xl font-semibold uppercase sm:text-xl'>LED-TV-EXPERT</h1>

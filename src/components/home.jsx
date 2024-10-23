@@ -100,7 +100,7 @@ function Home() {
      <Nav/>
      <a href="tel:+917219237200" className=' absolute'><div className=' calledshdw fixed size-16 bottom-24 right-5 rounded-full bg-green-600 animate-bounce z-[99] flex items-center justify-center text-zinc-50 text-3xl'><i class="ri-phone-fill"></i></div></a>
      <a href="https://wa.me/+917219237200?text=I%20have%20problem%20with%20my%20LED%20TV" className=' absolute'><div className=' calledshdw fixed size-16 bottom-5 right-5 rounded-full bg-green-600 animate-bounce z-[99] flex items-center justify-center text-zinc-50 text-3xl'><i class="ri-whatsapp-line"></i></div></a>
-     <div>
+     <div className='text'>
       <Top/>
      </div>
      <About/>

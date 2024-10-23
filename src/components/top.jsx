@@ -9,7 +9,7 @@ import bg3 from '/bg4.png'
 
 function Top() {
   return (
-    <div>
+    <div className=' overflow-hidden'>
       <Swiper
         spaceBetween={30}
         centeredSlides={true}
@@ -24,7 +24,7 @@ function Top() {
         modules={[Autoplay, Pagination, Navigation]}
         className="mySwiper"
       >
-        <SwiperSlide>
+        <SwiperSlide className=''>
           <div className='w-full h-full'><img className='w-full h-full object-cover object-center' src={bg2} />
           <div className='absolute bg-zinc-900/30 top-0 left-0 w-full h-full flex flex-col items-start sm:items-center px-3 justify-center'>
           <h1 className='text-5xl uppercase font-medium'>Repair service</h1>

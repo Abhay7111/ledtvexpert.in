@@ -30,7 +30,7 @@ function Contact() {
      <div className='w-full sm:w-1/2'>
           <h1 className='text-2xl font-medium'><span className='underline underline-offset-8'>OUR</span> ADDRESS</h1>
           <ul className='mt-6'>
-               <a href="tel:+917835037904"><li className='w-fit pl-2 pr-5 border-b border-dashed border-zinc-800 py-3 text-zinc-500'><i class="ri-phone-line text-red-500"> </i><span className='font-medium text-zinc-600'>Call Us :</span> +91-7835037904</li></a>
+               <a href="tel:+917219237200"><li className='w-fit pl-2 pr-5 border-b border-dashed border-zinc-800 py-3 text-zinc-500'><i class="ri-phone-line text-red-500"> </i><span className='font-medium text-zinc-600'>Call Us :</span> +91-7219237200</li></a>
                <a href="mailto:vishwaxupte@gmail.com"><li className='w-fit pl-2 pr-5 border-b border-dashed border-zinc-800 py-3 text-zinc-500'><i class="ri-mail-line text-red-500"> </i><span className='font-medium text-zinc-600'>Email Us :</span> vishwaxupte@gmail.com</li></a>
                <a href="148, Kasba Peth, Opp. Peshwa Ganpati,Lal Mahal Chowk,Pune-411011"><li className='w-fit pl-2 pr-5 border-b border-dashed border-zinc-800 py-3 text-zinc-500'><i class="ri-map-2-line text-red-500"> </i><span className='font-medium text-zinc-600'>Bhudhwar Peth Pune - 411002</span></li></a>
           </ul>

@@ -30,7 +30,7 @@ function Top() {
           <h1 className='text-5xl uppercase font-medium'>Repair service</h1>
           <p className='px-10 py-2 bg-[#2E375F]/90 mt-3 rounded relative text-base font-light before:absolute before:w-2 before:h-full before:bg-red-600 before:left-0 before:top-0 uppercase'>the best LED/LCD repair Services</p>
           <p className='text-sm font-light leading-5 mt-2 text-start'>We provided our best services for our clients and try to achieve our clint's trust and satisfaction.</p>
-          <a href="tel:+917835037904" className='px-8 py-1 text-sm font-light rounded bg-[#2E375F] mt-4 relative before:absolute before:w-2 before:h-full before:bg-red-600 before:left-0 before:top-0'>Call Now</a>
+          <a href="tel:+917219237200" className='px-8 py-1 text-sm font-light rounded bg-[#2E375F] mt-4 relative before:absolute before:w-2 before:h-full before:bg-red-600 before:left-0 before:top-0'>Call Now</a>
           </div>
           </div>
         </SwiperSlide>
@@ -40,7 +40,7 @@ function Top() {
           <p className='bg-red-600  px-1 h-10 flex items-center overflow-hidden rounded-full text-base font-light'><span className=' bg-[#2E375F] flex items-center justify-center rounded-full w-full px-10 h-10'>We are alwase provide you</span></p>
           <h1 className='px-7 py-2 rounded bg-[#2E375F]/90 mt-2 uppercase font-medium'>LED/ LCD tv perair services</h1>
           <p className='text-base font-light leading-5 mt-2 text-center px-5'>We provided our best services for our clients and try to achieve our clint's trust and satisfaction.</p>
-          <a href="tel:+917835037904" className='px-10 py-1 text-base rounded-full border mt-6'>Call Now</a>
+          <a href="tel:+917219237200" className='px-10 py-1 text-base rounded-full border mt-6'>Call Now</a>
           </div>
           </div>
         </SwiperSlide>
@@ -50,7 +50,7 @@ function Top() {
           <h1 className='px-14 py-2 rounded bg-[#2E375F]/90 text-3xl relative uppercase before:absolute before:w-2 before:h-full before:bg-red-600 before:right-0 before:top-0'>TV repair service</h1>
           <p className=' py-2 rounded-full text-xl font-medium uppercase'>Best services</p>
           <p className='text-sm font-light leading-5 text-end pl-14 w-96 pr-2'>We provided our best services for our clients and try to achieve our clint's trust and satisfaction.</p>
-          <a href="tel:+917835037904" className='px-6 py-1 relative text-sm font-light rounded mt-6 bg-[#2E375F] before:absolute before:w-2 before:h-full before:bg-red-600 before:right-0 before:top-0'>Call Now</a>
+          <a href="tel:+917219237200" className='px-6 py-1 relative text-sm font-light rounded mt-6 bg-[#2E375F] before:absolute before:w-2 before:h-full before:bg-red-600 before:right-0 before:top-0'>Call Now</a>
           </div>
           </div>
         </SwiperSlide>
